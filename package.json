@@ -1,0 +1,52 @@
+{
+  "title": "Portfolio",
+  "description": "Portfolio Website.",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "bugs": {
+    "url": "https://davidordaz.github.io",
+    "email": "davidordaz.portfolio@gmail.com"
+  },
+  "author": "David Ordaz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidOrdaz/DavidOrdaz.github.io.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "clean-webpack-plugin": "^0.1.19",
+    "devicons": "^1.8.0",
+    "html-critical-webpack-plugin": "^2.1.0",
+    "html-inline-css-webpack-plugin": "^1.3.2",
+    "html-webpack-plugin": "^3.2.0",
+    "image-webp-loader": "^1.2.0",
+    "image-webpack-loader": "^4.5.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "simple-line-icons": "^2.4.1",
+    "uglifyjs-webpack-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.0",
+    "gulp-header": "1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0",
+    "html-loader": "^0.5.5",
+    "mini-css-extract-plugin": "^0.4.3",
+    "node-sass": "^4.10.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.0",
+    "webp-loader": "^0.4.0",
+    "webpack": "^4.25.1",
+    "webpack-bundle-analyzer": "^3.0.3",
+    "webpack-cli": "^3.1.0"
+  }
+}
